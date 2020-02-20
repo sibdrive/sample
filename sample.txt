@@ -1,2 +1,1 @@
 this is the first text.
-second text
